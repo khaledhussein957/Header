@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    padding:9px
+}
+aside{
+    height: 100vh;
+    width: 33vh;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+}
+ul{
+    margin: 20px;
+    list-style: none;
+}
+li{
+    padding:9px
+}
+a{
+    text-decoration: none;
+    color:white;
+}
